@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Surendra Kumar.
-- 👀 I’m interested in Machine learning.
-- 🌱 I’m currently learning Machine learning and DSA
-- 💞️ I’m looking to collaborate on Ml Projects.
+- 👀 I’m interested in Machine learning and Deep learning.
+- 🌱 I’m currently working on Deep learning projects.
+- 💞️ I’m looking to collaborate on ML/ DL Projects.
 - 📫 Rech me on Linkedln https://www.linkedin.com/in/surendra-kumar-51802022b
