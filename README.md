@@ -2,5 +2,5 @@
 - 👀 I’m interested in Machine learning and Deep learning.
 - 🌱 I’m currently working on Deep learning projects.
 - 💞️ I’m looking to collaborate on ML/ DL Projects.
-- 📫 Rech me on Linkedln https://www.linkedin.com/in/surendra-kumar-51802022b
+- 📫 Rech me on [Linkedln](https://www.linkedin.com/in/surendra-kumar-51802022b)
 - Check out the Huggingface Spaces [here](https://huggingface.co/spaces/SurendraKumarDhaka)
